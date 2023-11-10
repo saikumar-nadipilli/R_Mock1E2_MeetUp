@@ -13,7 +13,7 @@ import {
   Select,
   RegisterButton,
   ErrorMsg,
-} from './style'
+} from './styleComponents'
 
 const topicsList = [
   {
